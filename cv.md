@@ -14,6 +14,8 @@ I am a punctual and motivated individual who is able to work in a busy environme
 
 ## Skills
 
+I have done some projects using javascript and continue learning the language, sass pre-processor and electron framework.
+
 ## Code Example
 
 ## Projects
