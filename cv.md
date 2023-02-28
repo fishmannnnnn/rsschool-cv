@@ -41,4 +41,4 @@ I have done some projects using javascript and continue learning the language, s
 
 Tolyatti State University (Software Engineering): 2022 - until now
 
-## English level
+## Languages
