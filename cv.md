@@ -20,6 +20,8 @@ I have done some projects using javascript and continue learning the language, s
 
 ## Code Example
 
+A part of the program that translates a binary number to a decimal.
+
     let input = document.getElementById("binInput");
     input.setAttribute("maxlength", "8");
 
