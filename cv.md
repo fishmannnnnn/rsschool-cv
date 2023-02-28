@@ -18,6 +18,21 @@ I have done some projects using javascript and continue learning the language, s
 
 ## Code Example
 
+    let input = document.getElementById("binInput");
+    input.setAttribute("maxlength", "8");
+
+    let result = document.getElementById("result");
+    let btn = document.getElementById("calculate");
+    btn.onclick = function () {
+        for (let char of input.value) {
+            if (char != "0" && char != "1") {
+                result.innerText = "you entered a non-binary number".toUpperCase();
+                return 0;
+            }
+        }
+        result.innerText = parseInt(input.value, 2);
+    };
+
 ## Projects
 
 ## Education
