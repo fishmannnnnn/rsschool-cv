@@ -43,6 +43,7 @@ function validParentheses(parens) {
 
 ## Projects
 
+In progress:
 [burgundy adaptive web site](https://fishmannnnnn.github.io/burgundy/)
 
 ## Education
