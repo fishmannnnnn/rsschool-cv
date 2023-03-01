@@ -1,6 +1,7 @@
 ## Name
 
-![my photo](rsschool-cv\img\Nala the cat.jpg?raw=true "Title")
+![my photo](rsschool-cv\img\pfp.jpg?raw=true "Title")
+
 Vladislav Lemkov
 
 ## Contacts
