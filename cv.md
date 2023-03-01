@@ -12,7 +12,8 @@ Vladislav Lemkov
 
 ## About Myself
 
-I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work. I am an excellent team worker and am able to take instructions from all levels and build up good working relationships with all colleagues.
+I really love english language and solving coding problems.
+I am a punctual and motivated individual who is able to work in a busy environment and produce high standards of work. I am able to take instructions from all levels and build up good working relationships with all colleagues.
 
 ## Skills
 
