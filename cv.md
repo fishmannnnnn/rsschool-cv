@@ -21,22 +21,25 @@ I have done some projects using javascript and continue learning the language, s
 
 ## Code Example
 
-A part of the program that translates a binary number to a decimal.
+Write a function that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return `true` if the string is valid, and `false` if it's invalid.
 
-    let input = document.getElementById("binInput");
-    input.setAttribute("maxlength", "8");
-
-    let result = document.getElementById("result");
-    let btn = document.getElementById("calculate");
-    btn.onclick = function () {
-        for (let char of input.value) {
-            if (char != "0" && char != "1") {
-                result.innerText = "you entered a non-binary number".toUpperCase();
-                return 0;
-            }
-        }
-        result.innerText = parseInt(input.value, 2);
-    };
+```
+function validParentheses(parens) {
+  let st = [];
+  for (let i = 0; i < parens.length; i++) {
+    if(parens[i] == "("){
+      st.push(parens[i]);
+    }else{
+      if (st.at(-1) == "("){
+        st.pop()
+      }else{
+        st.push(parens[i])
+      }
+    }
+  }
+  return st.length == 0;
+}
+```
 
 ## Projects
 
